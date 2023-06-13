@@ -1,0 +1,23 @@
+{
+  "name": "insidefi-multicall",
+  "version": "1.0.0",
+  "description": "A library used to multicall, uses maker's multicall contract internally.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cd-sigma/insidefi-multicall.git"
+  },
+  "keywords": [
+    "multicall",
+    "ethereum"
+  ],
+  "author": "ciphernova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cd-sigma/insidefi-multicall/issues"
+  },
+  "homepage": "https://github.com/cd-sigma/insidefi-multicall#readme"
+}
